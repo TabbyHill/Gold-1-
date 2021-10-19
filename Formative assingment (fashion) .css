@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+    
+  }
+  
+  h1 {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+
+  }
+  
+  p1 {
+    color: black;
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 20px;
+    text-align: center;
+    
+  }
+
+  p2 {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    text-align: center;
+    
+  }
+
+  ul {
+    color: black;
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 20px;
+    text-align: left;
+    
+  }
+
+  p {
+    color: black;
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 20px;
+    text-align: center;
+    
+  }
+
