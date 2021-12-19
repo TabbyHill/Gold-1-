@@ -1,3 +1,13 @@
+/** 
+ * ======================================================================================================
+ * Author:         Tabitha Hill
+ * Date:           19/12/2021
+ * Filename:       Summative assignment (fashion).js
+ * Acknowledgment: This code uses the pie chart and bar chart
+ *                 libraries from: https://www.d3-graph-gallery.com/
+ * ======================================================================================================
+*/
+
 /** Pie chart */
 
 /** create the size and margins of the pie chart */
@@ -28,9 +38,8 @@ var colour = d3.scaleOrdinal()
 
 
 /**
- * updates the pie chart for incoming data:
- * @param {object} data
- * @returns {any}
+ * Updates the pie chart for incoming data.
+ * @param {object} data - incoming data
  */
 function update(data) {
 
