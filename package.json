@@ -1,0 +1,14 @@
+{
+  "name": "js-local-copy",
+  "version": "1.0.0",
+  "description": "Tabby work",
+  "main": "Summative assignment (fashion).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
+}
